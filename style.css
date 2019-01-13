@@ -1,0 +1,36 @@
+header {
+  padding: 10px;
+  background: blue;
+  text-shadow: 1px 1px 1px yellow;
+  text-align: center;
+}
+
+nav {
+  background-color: rgb(11, 136, 63);
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 20px;
+  font-size: 24px;
+}
+
+section {
+ width: 50%;
+}
+
+.firstNavItem {
+  color: yellow;
+}
+
+a {
+  font-style: none;
+}
+
+.bodyListItem {
+  color: red;
+}
+
+ul {
+  list-style-type: none;
+}
